@@ -1,0 +1,22 @@
+.box{
+
+}
+body{
+  background-image: url("lunar-starry-night-jerry-mac.jpg");
+  background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+  background-size: cover;
+}
+h1{
+  text-align:center;
+  color: white;
+  text-shadow: 2px 2px 8px #000000;
+  margin-top: 20%;
+
+}
+h2{
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 8px #000000;
+}
