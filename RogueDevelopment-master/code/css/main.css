@@ -148,6 +148,10 @@ body {
   color: black;
   font-family: "Montserrat", sans-serif, arial, helvetica, verdana;
   font-size: 20px;
+margin-left: 15%;
+margin-right: 15%;
+text-decoration: underline;
+font-weight: 700;
 }
 
 /* the service section style */
@@ -172,6 +176,7 @@ body {
   color: black;
   font-family: "Open Sans", sans-serif, arial, helvetica, verdana;
   margin-top: 40px;
+font-weight: 900;
 }
 /* line 42, ../scss/layout/_content.scss */
 #servicesSection p {
