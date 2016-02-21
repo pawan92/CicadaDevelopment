@@ -141,7 +141,7 @@ body {
   color: black;
   font-family: "Montserrat", sans-serif, arial, helvetica, verdana;
   font-size: 60px;
-  text-shadow: 0 0 10px #000;
+  text-shadow: 0 0 3px #000; 
 }
 /* line 12, ../scss/layout/_content.scss */
 #welcomeSection h3 {
