@@ -170,6 +170,7 @@ font-weight: 700;
   color: #d5caca;
   font-family: "Montserrat", sans-serif, arial, helvetica, verdana;
   margin: 40px 0 0 0;
+  text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
 }
 /* line 36, ../scss/layout/_content.scss */
 #servicesSection .serviceTitle {
@@ -216,6 +217,7 @@ font-weight: 900;
 #aboutSection h1 {
   color: #d5caca;
   font-family: "Open Sans", sans-serif, arial, helvetica, verdana;
+text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
 }
 /* line 85, ../scss/layout/_content.scss */
 #aboutSection #aboutText {
@@ -281,6 +283,7 @@ font-weight: 900;
   margin: 0;
   color: #d5caca;
   font-family: "Open Sans", sans-serif, arial, helvetica, verdana;
+  text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
 }
 /* line 152, ../scss/layout/_content.scss */
 #contactSection p {
