@@ -141,7 +141,7 @@ body {
   color: black;
   font-family: "Montserrat", sans-serif, arial, helvetica, verdana;
   font-size: 60px;
-  text-shadow: 0 0 3px #000; 
+  text-shadow: 0 0 3px #000;
 }
 /* line 12, ../scss/layout/_content.scss */
 #welcomeSection h3 {
@@ -295,7 +295,7 @@ text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
 /* footer styles */
 /* line 162, ../scss/layout/_content.scss */
 #footerSection {
-  height: 300px;
+  height: 360px;
   background: #aea2a2;
 }
 /* line 166, ../scss/layout/_content.scss */
